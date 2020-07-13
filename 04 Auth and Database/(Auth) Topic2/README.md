@@ -241,6 +241,6 @@ Hit the refresh route, and then inspect the clients cookies to see the new value
 POST http://localhost:8000/refresh
 ```
 
-For code look [here](https://github.com/vectorrb/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
+📁For code look [here](https://github.com/vectorrb/TheNodeCourse/tree/master/04%20Auth%20and%20Database/(Auth)%20Topic2/Code/jwt-nodejs-example)
 
 Few more links to understand this concept and its implementation: [link1](https://medium.com/better-programming/authentication-and-authorization-using-jwt-with-node-js-4099b2e6ca1f) & [link2](https://flaviocopes.com/jwt/) 
